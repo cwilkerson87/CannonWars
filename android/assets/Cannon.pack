@@ -1,0 +1,1152 @@
+
+Cannon.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonHighShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 0
+
+Cannon2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonHighShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 1
+
+Cannon3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonHighShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 2
+
+Cannon4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonHighShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 3
+
+Cannon5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonHighShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 4
+
+Cannon6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonHighShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 5
+
+Cannon7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonHighShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 6
+
+Cannon8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonHighShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 7
+
+Cannon9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonHighShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 8
+
+Cannon10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonHighShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 9
+
+Cannon11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonHighShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 10
+
+Cannon12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonHighShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 11
+
+Cannon13.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonMidShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 0
+
+Cannon14.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonMidShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 1
+
+Cannon15.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonMidShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 2
+
+Cannon16.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonMidShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 3
+
+Cannon17.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonMidShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 4
+
+Cannon18.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonMidShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 5
+
+Cannon19.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonMidShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 6
+
+Cannon20.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonMidShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 7
+
+Cannon21.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonMidShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 8
+
+Cannon22.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonMidShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 9
+
+Cannon23.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonMidShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 10
+
+Cannon24.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonMidShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 11
+
+Cannon25.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonRoll/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 0
+
+Cannon26.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonRoll/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 1
+
+Cannon27.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonRoll/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 2
+
+Cannon28.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonRoll/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 3
+
+Cannon29.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonStraight/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 0
+
+Cannon30.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonStraight/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 1
+
+Cannon31.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonStraight/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 2
+
+Cannon32.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonStraight/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 3
+
+Cannon33.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonStraight/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 4
+
+Cannon34.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonStraight/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 5
+
+Cannon35.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonStraight/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 6
+
+Cannon36.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonStraight/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 7
+
+Cannon37.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonStraight/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 8
+
+Cannon38.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonStraight/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 9
+
+Cannon39.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonStraight/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 10
+
+Cannon40.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonStraight/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 11
+
+Cannon41.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonTilt_0/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 0
+
+Cannon42.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonTilt_0/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 1
+
+Cannon43.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonTilt_1/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 0
+
+Cannon44.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonTilt_1/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 1
+
+Cannon45.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonTilt_1/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 2
+
+Cannon46.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonTurn/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 0
+
+Cannon47.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonTurn/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 1
+
+Cannon48.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CannonTurn/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 2
+
+Cannon49.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonHighShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 0
+
+Cannon50.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonHighShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 1
+
+Cannon51.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonHighShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 2
+
+Cannon52.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonHighShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 3
+
+Cannon53.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonHighShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 4
+
+Cannon54.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonHighShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 5
+
+Cannon55.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonHighShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 6
+
+Cannon56.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonHighShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 7
+
+Cannon57.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonHighShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 8
+
+Cannon58.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonHighShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 9
+
+Cannon59.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonHighShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 10
+
+Cannon60.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonHighShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 11
+
+Cannon61.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonMidShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 0
+
+Cannon62.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonMidShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 1
+
+Cannon63.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonMidShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 2
+
+Cannon64.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonMidShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 3
+
+Cannon65.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonMidShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 4
+
+Cannon66.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonMidShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 5
+
+Cannon67.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonMidShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 6
+
+Cannon68.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonMidShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 7
+
+Cannon69.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonMidShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 8
+
+Cannon70.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonMidShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 9
+
+Cannon71.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonMidShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 10
+
+Cannon72.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonMidShot/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 11
+
+Cannon73.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonRoll/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 0
+
+Cannon74.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonRoll/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 1
+
+Cannon75.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonRoll/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 2
+
+Cannon76.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonRoll/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 3
+
+Cannon77.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonStraight/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 0
+
+Cannon78.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonStraight/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 1
+
+Cannon79.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonStraight/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 2
+
+Cannon80.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonStraight/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 3
+
+Cannon81.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonStraight/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 4
+
+Cannon82.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonStraight/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 5
+
+Cannon83.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonStraight/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 6
+
+Cannon84.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonStraight/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 7
+
+Cannon85.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonStraight/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 8
+
+Cannon86.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonStraight/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 9
+
+Cannon87.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonStraight/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 10
+
+Cannon88.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonStraight/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 11
+
+Cannon89.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonTilt_0/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 0
+
+Cannon90.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonTilt_0/ActIon
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 1
+
+Cannon91.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonTilt_1/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 0
+
+Cannon92.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonTilt_1/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 1
+
+Cannon93.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonTilt_1/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 2
+
+Cannon94.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonTurn/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 0
+
+Cannon95.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonTurn/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 1
+
+Cannon96.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GCannonTurn/Action
+  rotate: false
+  xy: 1, 1
+  size: 512, 540
+  orig: 512, 540
+  offset: 0, 0
+  index: 2
